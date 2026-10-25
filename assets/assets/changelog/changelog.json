@@ -1,0 +1,34 @@
+{
+  "latestVersion": "2.0.2",
+  "releases": [
+    {
+      "version": "2.0.2",
+      "build": "1",
+      "date": "2026-10-25",
+      "title": "Pembaruan Terbaru",
+      "changes": [
+        "Fitur \"Izin Saya\" untuk guru: lihat pengajuan izin sendiri, batalkan yang masih menunggu, dan buat pengajuan izin/sakit dengan guru badal",
+        "Piket Pimpinan di \"Jadwal Hari Ini\": ketuk kartu piket untuk absen mandiri (Hadir/Sakit/Izin/Alpa)",
+        "Jadwal Sepekan kini menampilkan slot Piket Guru dan Piket Pimpinan per hari",
+        "Absensi Guru KBM: semua slot jadwal tercatat, termasuk Hadir yang tidak diubah",
+        "Riwayat Absensi Guru: tab \"Mengajar (KBM)\" menampilkan data per slot (sesi, mapel, kelas, jam) + ringkasan H/S/I/A",
+        "Riwayat Absensi Murid: pull-to-refresh berfungsi dan riwayat KBM tidak lagi kosong",
+        "Portal wali: ringkasan H/S/I/A di absensi KBM anak",
+        "Portal santri: ringkasan H/S/I/A di absensi KBM dan absensi kegiatan",
+        "Pembayaran: animasi halus saat memilih bulan yaumiyah dan mengisi nominal daftar ulang"
+      ]
+    },
+    {
+      "version": "2.0.1",
+      "build": "1",
+      "date": "2026-10-25",
+      "title": "Pembaruan Terbaru",
+      "changes": [
+        "Penambahan halaman \"Apa yang Baru\"",
+        "Perbaikan validasi pembayaran tabungan",
+        "Ringkasan H/S/I/A per hari di portal wali",
+        "Perbaikan tampilan riwayat KBM"
+      ]
+    }
+  ]
+}
